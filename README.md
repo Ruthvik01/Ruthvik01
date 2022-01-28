@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruthvik CH
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Development, Coding.
 - 🌱 I’m currently a Computer Science Student.
 - 📫 How to reach me ...
 1.My Email     :   chennapragadaruthvik@gmail.com
